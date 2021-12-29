@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="sttitle">Student marks calculator</string>
+    <string name="stname">Student name</string>
+    <string name="module1">Module 1</string>
+    <string name="module2">Module 2</string>
+    <string name="module3">Module 3</string>
+    <string name="module4">Module 4</string>
+    <string name="total">Total</string>
+    <string name="avg">Average</string>
+    <string name="ok">Ok</string>
+    <string name="clear">Clear</string>
+
+
+</resources>
